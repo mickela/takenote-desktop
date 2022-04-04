@@ -1,0 +1,23 @@
+{
+  "name": "takenote-desk",
+  "version": "1.0.0",
+  "description": "open-source cross-platform implementation of tania rascia's takenote.dev",
+  "main": "index.js",
+  "dependencies": {
+    "electron": "^18.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mickela/takenote-desktop.git"
+  },
+  "author": "mickela",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mickela/takenote-desktop/issues"
+  },
+  "homepage": "https://github.com/mickela/takenote-desktop#readme"
+}
