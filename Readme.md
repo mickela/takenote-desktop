@@ -1,1 +1,1 @@
-#ntakenote-desktop
+# takenote-desktop
