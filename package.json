@@ -2,13 +2,13 @@
   "name": "takenote-desk",
   "version": "1.0.0",
   "description": "open-source cross-platform implementation of tania rascia's takenote.dev",
-  "main": "index.js",
+  "main": "main.js",
   "dependencies": {
     "electron": "^18.0.1"
   },
   "devDependencies": {},
   "scripts": {
-    "start": ""
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
